@@ -1,5 +1,6 @@
 # Introdução
 Treinei uma IA do zero da ferramenta NotebookLM com fontes de dados diversas como videos, textos e imagens e especificas para que permita o usuario usufruir de uma conversa inteligente, podcast, video, slides e mapa mental com o objetivo de guiar seu estudo sobre as tendencias da Tecnologia da Informação para os proximos anos.
+- acesse: https://notebooklm.google.com/notebook/54cd2c90-7420-4552-a3ee-e3d7a732b95d
 
 # Fluxo de trabalho
 1. Criei um novo caderno
