@@ -18,16 +18,16 @@ Treinei uma IA do zero da ferramenta NotebookLM com fontes de dados diversas com
     OBS: foram todos positivo
 
 # Links fontes
-https://beon.claro.com.br/noticias/noticias-beon-claro-2025-5-tendencias-de-inovacao-e-tecnologia-para-2025
-https://sindhosfil.com.br/alta-procura-e-pouca-qualificacao-mercado-de-ti-vai-enfrentar-desafios-em-2025/
-https://netsupport.com.br/as-inovacoes-que-estao-moldando-o-mercado-de-ti-em-2025
-https://notaalta.espm.br/o-assunto-do-dia/computacao-quantica-e-a-nova-fronteira-do-uso-da-tecnologia-no-mercado-financeiro/
-https://softex.br/conheca-as-10-principais-tendencias-tecnologicas-estrategicas-para-2025-apresentadas-no-gartner-it-symposium-xpo-2024/
-https://www.alura.com.br/empresas/artigos/tendencias-tech-2025
-https://greenit.eco/wp-content/uploads/2025/05/greenit-world-study-2025-infographic-20250509.pdf
-https://devopsautomation.com.br/blog/platform-engineering-idp
-https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2025/12/soberania-mcti-lanca-iniciativa-para-desenvolver-modelos-avancados-de-ia-em-portugues
-https://www.gx2.com.br/web/guest/w/tendencias-de-ti-para-2025
+- https://beon.claro.com.br/noticias/noticias-beon-claro-2025-5-tendencias-de-inovacao-e-tecnologia-para-2025
+- https://sindhosfil.com.br/alta-procura-e-pouca-qualificacao-mercado-de-ti-vai-enfrentar-desafios-em-2025/
+- https://netsupport.com.br/as-inovacoes-que-estao-moldando-o-mercado-de-ti-em-2025
+- https://notaalta.espm.br/o-assunto-do-dia/computacao-quantica-e-a-nova-fronteira-do-uso-da-tecnologia-no-mercado-financeiro/
+- https://softex.br/conheca-as-10-principais-tendencias-tecnologicas-estrategicas-para-2025-apresentadas-no-gartner-it-symposium-xpo-2024/
+- https://www.alura.com.br/empresas/artigos/tendencias-tech-2025
+-  https://greenit.eco/wp-content/uploads/2025/05/greenit-world-study-2025-infographic-20250509.pdf
+- https://devopsautomation.com.br/blog/platform-engineering-idp
+- https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2025/12/soberania-mcti-lanca-iniciativa-para-desenvolver-modelos-avancados-de-ia-em-portugues
+- https://www.gx2.com.br/web/guest/w/tendencias-de-ti-para-2025
 
 
    
